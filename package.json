@@ -12,7 +12,11 @@
   "scripts": {
     "prepare": "husky install",
     "test": "echo \"Error: no test specified\" && exit 0",
-    "cz": "cz"
+    "cz": "cz",
+    "release": "standard-version",
+    "release:minor": "standard-version --release-as minor",
+    "release:minor": "standard-version --release-as patch",
+    "release:minor": "standard-version --release-as major"
   },
   "lint-staged": {
     "**.js": [
@@ -30,7 +34,8 @@
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^9.7.0",
     "globals": "^15.8.0",
-    "husky": "^8.0.0"
+    "husky": "^8.0.0",
+    "standard-version": "^9.5.0"
   },
   "config": {
     "commitizen": {
