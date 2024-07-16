@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.0.0](https://github.com/khadija-AC/T2/compare/v2.0.0...v5.0.0) (2024-07-16)
+
+
+### Features
+
+* **update:** add ligne ([3a8035f](https://github.com/khadija-AC/T2/commit/3a8035f39be6f3273f5b4160994ff9d9f4f7c530))
+
+## [4.0.0](https://github.com/khadija-AC/T2/compare/v2.0.0...v4.0.0) (2024-07-16)
+
+
+### Features
+
+* **update:** add ligne ([3a8035f](https://github.com/khadija-AC/T2/commit/3a8035f39be6f3273f5b4160994ff9d9f4f7c530))
+
+## [3.0.0](https://github.com/khadija-AC/T2/compare/v2.0.0...v3.0.0) (2024-07-16)
+
+
+### Features
+
+* **update:** add ligne ([3a8035f](https://github.com/khadija-AC/T2/commit/3a8035f39be6f3273f5b4160994ff9d9f4f7c530))
+
 ## [2.0.0](https://github.com/khadija-AC/T2/compare/v1.0.0...v2.0.0) (2024-07-16)
 
 
