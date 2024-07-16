@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/khadija-AC/T2/compare/v1.0.0...v2.0.0) (2024-07-16)
+
+
+### Features
+
+* **update:** supprimer un ligne ([af4bfaf](https://github.com/khadija-AC/T2/commit/af4bfaff045801fd53aebd0ef6c1aa67c708c4b3))
+
+
+### Bug Fixes
+
+* update index.js ([715bf17](https://github.com/khadija-AC/T2/commit/715bf17c0706b868631e453ebe0330252a18a18b))
+
 ## 1.0.0 (2024-07-15)
 
 
