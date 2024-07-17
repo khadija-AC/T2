@@ -1,6 +1,7 @@
 ;(function (exports) {
   function greet(name) {
     const options = {
+      minute: 'numeric',
       hour: 'numeric',
       day: 'long',
       month: 'long',
