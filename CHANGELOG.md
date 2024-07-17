@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.0.1](https://github.com/khadija-AC/T2/compare/v5.0.0...v5.0.1) (2024-07-17)
+
+
+### Bug Fixes
+
+* add some ligne in package.json ([6facd24](https://github.com/khadija-AC/T2/commit/6facd24e9ad6ca39fd31bcf54eecd9441b07f641))
+* fix error ([6255133](https://github.com/khadija-AC/T2/commit/62551332bd6736be6a7aa9c5415b322c2889395c))
+
 ## [5.0.0](https://github.com/khadija-AC/T2/compare/v2.0.0...v5.0.0) (2024-07-16)
 
 
